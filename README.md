@@ -1,4 +1,4 @@
 SchemeShell
 ===========
 
-A Scheme Shell base on JScheme
+A Scheme Shell based on JScheme
